@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<Ecocentre xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<listeMatieres>
+        <Matiere>
+			<Nom>Agrégats</Nom>
+			<Description>Gravier, béton, asphalte, brique, etc.</Description>
+			<Note>Les agrégats sont acceptés en petite quantité seulement, soit l’équivalent d’une brouette.</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Appareils électroniques</Nom>
+			<Description>Ordinateurs, imprimantes, radios, cellulaires, tablettes, etc.</Description>
+			<Note>Qu’ils soient fonctionnels ou non, les appareils électroniques sont acceptés aux écocentres.</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Bois</Nom>
+			<Description>Naturel, traité, peint, etc.</Description>
+			<Note>Le bois qui contient des clous est également accepté. </Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Meubles</Nom>
+			<Description>Table, étagère, meubles d’extérieur, vaisselle, livres, jeux, outils ainsi que les petits et gros électroménagers</Description>
+			<Note>Tout mobilier et petits accessoires en bonne condition sont acceptés à l’écocentre.</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Matériaux secs</Nom>
+			<Description>Placoplâtre (gypse), vitre, miroir, porcelaine, céramique, mélamine, revêtement de masonite ou cannexel, plancher flottant, etc</Description>
+			<Note>Le bardeau d’asphalte (sans papier goudronné) est accepté sans frais</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Métal</Nom>
+			<Description>Tuyaux, jantes de pneus, clôtures, gouttières, tôle, chauffe-eau, etc</Description>
+			<Note>Toute pièce de métal est acceptée à l’écocentre.</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Pneus</Nom>
+			<Description>Seuls les pneus de véhicules automobiles d’un diamètre inférieur à 48½ pouces sont acceptés.</Description>
+			<Note>Les pneus doivent être sans jante.</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Résidus domestiques dangereux</Nom>
+			<Description>Huiles, solvants, acides, pesticides, produits d’entretien ménager, etc.</Description>
+			<Note>Les résidus domestiques dangereux sont des produits à usage domestique dont l’élimination incontrôlée présente des dangers potentiels pour la santé et l’environnement</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Peinture</Nom>
+			<Description>Peinture résidentielle et apprêt, peinture à métal et antirouille, peinture en aérosol, teinture, vernie, laque, huile protectrice ainsi que les contenants et aérosols de peinture vides sont acceptées.</Description>
+			<Note>La peinture doit être dans son contenant d’origine avec l’étiquette et le contenant doit être bien fermé afin d’éviter les déversements.</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Piles et batteries</Nom>
+			<Description>Afin de rendre le transport des piles sécuritaire et conforme, les piles au LITHIUM et LITHIUM-ION doivent être séparées des autres piles et batteries.</Description>
+			<Note>Les batteries de véhicules automobiles ne sont pas acceptées.</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Ampoules fluocompactes et tubes fluorescents</Nom>
+			<Description>Les fluocompactes et les tubes fluorescent contiennent du mercure qu’il est possible de recycler lorsque les ampoules arrivent en fin de vie utile.</Description>
+			<Note>Les ampoules ne contenant pas de mercure vont à la poubelle, par exemple les ampoules de type incandescent et DEL.</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Résidus verts</Nom>
+			<Description>Feuilles mortes, gazon, résidus de jardins, etc.</Description>
+			<Note>Les résidus verts sont acceptés à l’écocentre en vrac (sans sac) et sans contaminants (ex: plastiques, canettes, papiers, branches, crottes de chiens, etc.)</Note>
+			<Cout>Nul</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Meubles rembourrés</Nom>
+			<Description>Matelas et sommier, futon, divan, chaise, fauteuil, etc.</Description>
+			<Note>Le prix est par place / personne</Note>
+			<Cout>5,00</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Branches</Nom>
+			<Description>Branches d'arbres de toutes sortes</Description>
+			<Note>Des frais minimums de 1$. Pour une remorque de 4 x 8 ($2,00). Une remorque 6 x 12 ($5.00)</Note>
+			<Cout>1,00</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Douches ou Bains</Nom>
+			<Description>Acrylique et fibre de verre</Description>
+			<Note>Frais supplémentaires potentiels selon la dimension</Note>
+			<Cout>10,00</Cout>
+		</Matiere>
+        <Matiere>
+			<Nom>Plastique rigide</Nom>
+			<Description>Jouet, skis, tuyaux, déclin de vinyle (clapboard), prélart, arbre artificiel ou décorations de Noël, produits en plastique non recyclable, acrylique, résine, etc.</Description>
+			<Note>Des frais minimums de 5$. Pour une remorque de 4 x 8 ($10,00). Une remorque 6 x 12 ($15.00)</Note>
+			<Cout>5,00</Cout>
+		</Matiere>
+  	</listeMatieres>
+</Ecocentre>
